@@ -1,0 +1,6 @@
+{
+  "name": "테트라 스튜디오 — 아케이드 테트리스",
+  "description": "SRS 회전 시스템, 7-Bag 생성기, 고스트 블록, 홀드, T-스핀 판정 및 마라톤·40라인 스프린트·울트라 모드를 지원하는 정통 아케이드 테트리스 게임입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
